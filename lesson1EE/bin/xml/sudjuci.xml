@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sudjuci>
+	<!-- dzfhd -->
+	<sudjuk proizvoditel = "Boni">
+		<sustavki>Konsko i kuchesko</sustavki>
+		<debelina>50</debelina>
+	</sudjuk>
+	
+	<sudjuk proizvoditel = "Toni">
+		<sustavki>Svinsko</sustavki>
+		<debelina>20</debelina>
+	</sudjuk>
+</sudjuci>

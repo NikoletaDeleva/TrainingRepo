@@ -1,0 +1,5 @@
+package warehouse;
+
+public enum Vid {
+	BANANA,ORANGE, APPLE, POTATO, EGGPLANT, CUCUMBER,PORK,BEEF, CHICKEN
+}
